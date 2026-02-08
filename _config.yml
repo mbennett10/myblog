@@ -22,7 +22,7 @@ title: Matt Bennett
 email: matt@mattbennett.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Matt Bennett is passionate about cultivating connection, converstion, and community.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://mbennett10.github.io/myblog" # the subpath of your site, e.g. /blog
 url: "https://mattbennett.ca" # the base hostname & protocol for your site, e.g. http://example.com
 minima:
   social_links:
